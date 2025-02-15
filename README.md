@@ -7,5 +7,5 @@ Google Colab
 
 macOS Sonoma 14.4.1
 
-Description: ...
+Description: This project analyzes delivery data for FoodHub by measuring factors that impact orders, delivery efficiency, and customer ratings. I used data manipulaization and visualization techniques to generate these insights using various Python libraries and tools.
 
